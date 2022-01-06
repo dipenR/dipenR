@@ -6,7 +6,7 @@
 - A research assistant at Stony Brook University. I work on using NLP to gain insights on adoloscent mental health. 
 - A data science intern at IneltiiRisk. I work on using company financial data to extract potential insurance coverage.
 
-💬 Want to Learn more about me?
+💬 Want to learn more about me?
 - Contact me at dipenrupani16@gmail.com.
 - Check out my [linkedin](https://www.linkedin.com/in/dipenrupani/).
 
