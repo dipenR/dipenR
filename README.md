@@ -7,7 +7,7 @@
 - A software development engineering intern at IneltiiRisk. I work on using company financial data to extract potential insurance coverage.
 
 💬 Want to learn more about me?
-- Contact me at dipenrupani16@gmail.com.
+- Reach out to me through my email: dipenrupani16@gmail.com.
 - Check out my [linkedin](https://www.linkedin.com/in/dipenrupani/).
 
 
