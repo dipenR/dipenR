@@ -3,7 +3,7 @@
 🎓 I am a senior at Stony Brook University, studying computer science with a specialization in AI and data science. I expect to graduate in May'22.
 
 💻 Currently, I work as:
-- A research assistant at [HLAB](https://hlab.cs.stonybrook.edu/) at Stony Brook University. I work on using NLP to gain insights on adoloscent mental health. 
+- A research assistant at [HLAB](https://hlab.cs.stonybrook.edu/). I work on using NLP to gain insights on adoloscent mental health. 
 - A software development engineering intern at IneltiiRisk. I work on using company financial data to extract potential insurance coverage.
 
 💬 Want to learn more about me?
