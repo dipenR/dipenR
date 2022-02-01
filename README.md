@@ -1,4 +1,4 @@
-### 👋🏽 Hi, my name is Dipen!
+### 👋🏽 Hi, my name is Dipen Rupani!
 
 🎓 I am a senior at Stony Brook University, studying computer science with a specialization in AI and data science. I expect to graduate in May'22.
 
