@@ -1,6 +1,6 @@
 ### 👋🏽 Hi, my name is Dipen Rupani!
 
-🎓 I recently graduate from Stony Brook University, where I studied computer science with a specialization in AI and data science.
+🎓 I recently graduated from Stony Brook University, where I studied computer science with a specialization in AI and data science.
 
 💻 Currently, I work as:
 - A research assistant at [HLAB](https://hlab.cs.stonybrook.edu/). I work on using NLP to gain insights on adoloscent mental health. 
